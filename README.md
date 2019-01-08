@@ -17,4 +17,15 @@ This project was created to facilitate and make project review process easy.
 
 
 
-![Alt text](ScreenshotProjectRepo/landingPage.jpg?raw=true "Optional Title")
+![Alt text](ScreenshotProjectRepo/landingPage.jpg?raw=true "Landing Page")
+![Alt text](ScreenshotProjectRepo/MenuList.PNG?raw=true "Menu Options")
+![Alt text](ScreenshotProjectRepo/ProjectRepo.PNG?raw=true "Project Repository")
+![Alt text](ScreenshotProjectRepo/UploadForms.PNG?raw=true "UploadForms")
+![Alt text](ScreenshotProjectRepo/ManageUsers.PNG?raw=true "Manage Users")
+![Alt text](ScreenshotProjectRepo/Deadline.PNG?raw=true "Set Deadline")
+
+
+
+
+
+
